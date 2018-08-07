@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeekBarBeats</string>
+    <string name="bpm_unit_text">bpm</string>
+    <string name="tap_to_set_tempo" />
+</resources>
